@@ -1,4 +1,3 @@
-# my-portfolio
 <h1 align="center">Hi 👋, I'm Muhammed Hadhi V S</h1>
 <h3 align="center">Software Developer | Tech Enthusiast</h3>
 
@@ -33,17 +32,6 @@
 - 🔹 **Project 2** – Health Connect Application 
 
 👉 More projects: [My GitHub Repositories](https://github.com/hadhiofficial/)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9MidhunPM&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9MidhunPM" />
-</p>
 
 ---
 
